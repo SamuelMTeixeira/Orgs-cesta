@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ManualDaLibras",
-    "slug": "ManualDaLibras",
+    "name": "Orgs",
+    "slug": "orgs-cesta",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
